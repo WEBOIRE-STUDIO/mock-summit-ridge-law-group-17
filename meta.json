@@ -1,0 +1,65 @@
+{
+  "templateKey": "professional_services",
+  "heroVariant": "minimal-centered",
+  "serviceLayout": "asymmetric-cards",
+  "ctaStyle": "outline",
+  "paletteSeed": 2,
+  "heroSeed": 2,
+  "copySeed": 2,
+  "visualSystem": {
+    "key": "minimal-luxury",
+    "label": "Minimal Luxury",
+    "dark": false,
+    "cardStyle": "outline-mono",
+    "ctaLayout": "centered-band",
+    "selectionReason": "explicitly forced"
+  },
+  "motionPreset": {
+    "key": "minimal-slow-reveal",
+    "label": "Minimal Luxury Slow Reveal",
+    "selectionReason": "visual system default (minimal-luxury → minimal-slow-reveal)",
+    "contentGated": false
+  },
+  "selectionSignals": {
+    "servicesCount": 2,
+    "imagePoolCount": 2,
+    "hasRelevantImagery": true
+  },
+  "resolvedVisualDirection": {
+    "palette_source": "design_direction",
+    "palette_key": "monochrome-luxury",
+    "palette": {
+      "primary": "#1a1a1a",
+      "primaryDark": "#000000",
+      "accent": "#c9a227",
+      "textDark": "#111111",
+      "textOnPrimary": "#ffffff",
+      "bgLight": "#fafafa",
+      "bgAlt": "#efefef",
+      "border": "#dcdcdc",
+      "radius": "2px",
+      "ctaStyle": "outline",
+      "headingFont": "Fraunces",
+      "bodyFont": "Inter",
+      "googleFonts": "Fraunces:wght@600;700;800|Inter:wght@400;500;600"
+    },
+    "hero_variant": "minimal-centered",
+    "section_style": "boxed",
+    "image_category": "general",
+    "matched_keywords": [
+      "minimal",
+      "sophisticated",
+      "elegant"
+    ],
+    "visual_system": "minimal-luxury",
+    "visual_system_label": "Minimal Luxury",
+    "visual_system_reason": "explicitly forced",
+    "motion_preset": "minimal-slow-reveal",
+    "motion_preset_label": "Minimal Luxury Slow Reveal",
+    "motion_preset_reason": "visual system default (minimal-luxury → minimal-slow-reveal)",
+    "motion_preset_content_gated": false,
+    "services_count": 2,
+    "image_pool_count": 2,
+    "has_relevant_imagery": true
+  }
+}
